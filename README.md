@@ -40,11 +40,15 @@ A collection of emotions for every Linux user — from the pain of a broken depe
 
 </div>
 
----
+### 🔗 Links:
+- [Telegram Sticker Pack](https://t.me/addstickers/meowrch_rice)
+
 
 ## 🖼️ Media & Promo
 
 The `/promo` folder contains media materials used on social networks and blogs. For example, music and previews for YouTube videos.
+
+[![meowrch_v3_update](promo/meowrch_update_v3_youtube_preview.png)](https://www.youtube.com/watch?v=ZZnBopmVzz4)
 
 ## 🛠 Recommendations for use
 
